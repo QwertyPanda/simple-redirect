@@ -1,1 +1,1 @@
-# simple-redirect
+# the website itself
